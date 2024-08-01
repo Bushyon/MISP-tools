@@ -20,4 +20,3 @@ pip install pymisp requests urllib3
 ## Notes
 
 - Scripts may disable SSL warnings for requests, which is not recommended for production environments. Ensure proper SSL handling in production.
-- Contributions and improvements are welcome. Please fork the repository and submit a pull request.
